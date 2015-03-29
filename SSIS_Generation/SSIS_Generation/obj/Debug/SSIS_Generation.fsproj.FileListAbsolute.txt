@@ -1,0 +1,9 @@
+c:\users\geoff\documents\visual studio 2013\Projects\SSIS_Generation\SSIS_Generation\bin\Debug\SSIS_Generation.exe.config
+c:\users\geoff\documents\visual studio 2013\Projects\SSIS_Generation\SSIS_Generation\bin\Debug\SSIS_Generation.XML
+c:\users\geoff\documents\visual studio 2013\Projects\SSIS_Generation\SSIS_Generation\bin\Debug\SSIS_Generation.exe
+c:\users\geoff\documents\visual studio 2013\Projects\SSIS_Generation\SSIS_Generation\bin\Debug\SSIS_Generation.pdb
+c:\users\geoff\documents\visual studio 2013\Projects\SSIS_Generation\SSIS_Generation\bin\Debug\FSharp.Core.dll
+c:\users\geoff\documents\visual studio 2013\Projects\SSIS_Generation\SSIS_Generation\bin\Debug\FSharp.Core.xml
+c:\users\geoff\documents\visual studio 2013\Projects\SSIS_Generation\SSIS_Generation\obj\Debug\SSIS_Generation.exe
+c:\users\geoff\documents\visual studio 2013\Projects\SSIS_Generation\SSIS_Generation\obj\Debug\SSIS_Generation.pdb
+c:\users\geoff\documents\visual studio 2013\Projects\SSIS_Generation\SSIS_Generation\bin\Debug\Microsoft.SqlServer.DTSRuntimeWrap.dll
